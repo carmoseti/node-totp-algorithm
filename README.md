@@ -21,3 +21,4 @@ $ npm run main
 
 ## Resources
 1. [RFC 6238 - TOTP: Time-Based One-Time Password Algorithm](https://datatracker.ietf.org/doc/html/rfc6238)
+2. [Google Authenticator Key URI format](https://github.com/google/google-authenticator/wiki/Key-Uri-Format)
