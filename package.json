@@ -12,6 +12,7 @@
   "author": "Carlton Moseti",
   "license": "ISC",
   "dependencies": {
+    "otplib": "^12.0.1",
     "qrcode": "^1.5.0",
     "to-data-view": "^2.0.0",
     "typescript": "^4.6.4"
